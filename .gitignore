@@ -1,0 +1,10 @@
+.venv/
+poetry.lock
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.idea/
+.vscode/
+*.log
+quantized_model/
